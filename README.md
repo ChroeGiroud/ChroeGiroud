@@ -1,9 +1,3 @@
-HI, I’m @ChroeGiroud
-🥢 CSS/JS programmer
-📸 Designer & Photograph
-📌 Vancouver, Canadá
-🎸 Guitar player
-  
 <div align="center">
  <a href="https://github.com/ChroeGiroud">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chroegiroud&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
